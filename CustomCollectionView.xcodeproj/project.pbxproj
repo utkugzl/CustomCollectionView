@@ -13,6 +13,8 @@
 		714BB71D2A4F313100A8B25F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 714BB71B2A4F313100A8B25F /* Main.storyboard */; };
 		714BB71F2A4F313200A8B25F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 714BB71E2A4F313200A8B25F /* Assets.xcassets */; };
 		714BB7222A4F313200A8B25F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 714BB7202A4F313200A8B25F /* LaunchScreen.storyboard */; };
+		714BB72A2A4F3E3C00A8B25F /* MovieCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714BB7292A4F3E3C00A8B25F /* MovieCollectionViewCell.swift */; };
+		714BB72C2A4F403600A8B25F /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 714BB72B2A4F403600A8B25F /* Movie.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		714BB71E2A4F313200A8B25F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		714BB7212A4F313200A8B25F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		714BB7232A4F313200A8B25F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		714BB7292A4F3E3C00A8B25F /* MovieCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewCell.swift; sourceTree = "<group>"; };
+		714BB72B2A4F403600A8B25F /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				714BB7152A4F313100A8B25F /* AppDelegate.swift */,
 				714BB7172A4F313100A8B25F /* SceneDelegate.swift */,
 				714BB7192A4F313100A8B25F /* ViewController.swift */,
+				714BB7292A4F3E3C00A8B25F /* MovieCollectionViewCell.swift */,
+				714BB72B2A4F403600A8B25F /* Movie.swift */,
 				714BB71B2A4F313100A8B25F /* Main.storyboard */,
 				714BB71E2A4F313200A8B25F /* Assets.xcassets */,
 				714BB7202A4F313200A8B25F /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				714BB71A2A4F313100A8B25F /* ViewController.swift in Sources */,
 				714BB7162A4F313100A8B25F /* AppDelegate.swift in Sources */,
 				714BB7182A4F313100A8B25F /* SceneDelegate.swift in Sources */,
+				714BB72A2A4F3E3C00A8B25F /* MovieCollectionViewCell.swift in Sources */,
+				714BB72C2A4F403600A8B25F /* Movie.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
